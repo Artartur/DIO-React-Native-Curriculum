@@ -20,6 +20,7 @@ Building cross-platform mobile apps with React Native, here is the result:
   - Alert
   - TouchableOpacity
   - Creating my own components
-  
--  Props
+
+- States
+- Props
 - Children
